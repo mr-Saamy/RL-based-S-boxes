@@ -11,7 +11,7 @@ from statistics import mean,pstdev
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import sys
 
-sys.stdout=open('3Rules_8_256_1.txt','w')
+sys.stdout=open('3Rules_8_256_3.txt','w')
 
 NUM_RULES = 3
 INPUT_SIZE = 8
@@ -96,7 +96,7 @@ NLs=[]
 worst_strength = inf
 worst_DU = inf
 worst_NL = inf
-S = [12, 8, 30] #These values indicate the function index in the list rules_list. Values range from 0-55.
+S = [2, 8, 3] #These values indicate the function index in the list rules_list. Values range from 0-55.
 A_val = randint(0, 55)
 A = (randint(0, NUM_RULES-1), A_val)
 print(f'Initial State: {[rule_names[s] for s in S]}')
