@@ -1,12 +1,20 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr  1 15:05:43 2024
+
+@author: user
+"""
+
 from cmath import inf
 import numpy as np
-import matplotlib.pyplot as plt
-import sys
+# import matplotlib.pyplot as plt
+# import sys
 import itertools
 import math
-from . import funcs_filtered_outputs_m_3 as m3
+import funcs_filtered_outputs_m_3 as m3
 
-NUM_RULES = 4
+NUM_RULES = 2
 INPUT_SIZE = 8
 OUTPUT_SIZE = 8
 
@@ -70,29 +78,29 @@ def Sbox(rules):
         inputs.append(res)
         op = []
         start = 0
-
+        
         # FIRST LAYER
         ######################################################################
         # for rule in rules:
         #     for i in range(math.ceil(INPUT_SIZE/NUM_RULES)):
         #         op.append(rule_op(rule, 3, INPUT_SIZE, res, start))
         #         start += 1
-        # if(NUM_RULES==2 or NUM_RULES==4):
-        #     for i in range(INPUT_SIZE):
-        #         if(start in [0,1,4,5]):
-        #             op.append(rule_op(rules[0],3,INPUT_SIZE,res,start))
-        #         else:
-        #             op.append(rule_op(rules[1],3,INPUT_SIZE,res,start))
-        #         start+=1
-        # if(NUM_RULES==3):
-        #     for i in range(INPUT_SIZE):
-        #         if(start in [0,1,2]):
-        #             op.append(rule_op(rules[0],3,INPUT_SIZE,res,start))
-        #         elif(start in [3,4,5]):
-        #             op.append(rule_op(rules[1],3,INPUT_SIZE,res,start))
-        #         elif(start in [6,7]):
-        #             op.append(rule_op(rules[2],3,INPUT_SIZE,res,start))
-        #         start+=1
+        if(NUM_RULES==2 or NUM_RULES==4):
+            for i in range(INPUT_SIZE):
+                if(start in [0,1,4,5]):
+                    op.append(rule_op(rules[0],3,INPUT_SIZE,res,start))
+                else:
+                    op.append(rule_op(rules[1],3,INPUT_SIZE,res,start))
+                start+=1
+        if(NUM_RULES==3):
+            for i in range(INPUT_SIZE):
+                if(start in [0,3,6]):
+                    op.append(rule_op(rules[0],3,INPUT_SIZE,res,start))
+                elif(start in [1,4,7]):
+                    op.append(rule_op(rules[1],3,INPUT_SIZE,res,start))
+                elif(start in [2,5]):
+                    op.append(rule_op(rules[2],3,INPUT_SIZE,res,start))
+                start+=1
         if(NUM_RULES==4):
             for i in range(INPUT_SIZE):
                 if(start in [0,2]):
@@ -103,84 +111,87 @@ def Sbox(rules):
                     op.append(rule_op(rules[2],3,INPUT_SIZE,res,start))
                 elif(start in [5,7]):
                     op.append(rule_op(rules[3],3,INPUT_SIZE,res,start))
-
-
+                    
+                    
         op = op[0:8]
         ######################################################################
-
+        
         #SECOND LAYER
         ######################################################################
-        op1=[]
+        op1=[] 
         start=0
         for rule in rules:
             for i in range(math.ceil(INPUT_SIZE/NUM_RULES)):
                 op1.append(rule_op(rule, 3, INPUT_SIZE, op, start))
                 start += 1
-        # # if(NUM_RULES==2):
-        # #     for i in range(INPUT_SIZE):
-        # #         if(start in [0,1,4,5]):
-        # #             op1.append(rule_op(rules[0],3,INPUT_SIZE,op,start))
-        # #         else:
-        # #             op1.append(rule_op(rules[1],3,INPUT_SIZE,op,start))
-        # #         start+=1
-        # if(NUM_RULES==3):
-        #     for i in range(INPUT_SIZE):
-        #         if(start in [0,1,2]):
-        #             op1.append(rule_op(rules[2],3,INPUT_SIZE,op,start))
-        #         elif(start in [3,4,5]):
-        #             op1.append(rule_op(rules[1],3,INPUT_SIZE,op,start))
-        #         elif(start in [6,7]):
-        #             op1.append(rule_op(rules[2],3,INPUT_SIZE,op,start))
-        #         start+=1
-        # if(NUM_RULES==4):
-        #     for i in range(INPUT_SIZE):
-        #         if(start in [0,1,4,5]):
-        #             op1.append(rule_op(rules[2],3,INPUT_SIZE,op,start))
-        #         else:
-        #             op1.append(rule_op(rules[3],3,INPUT_SIZE,op,start))
-        #         start+=1
-        # else:
-        #     for rule in rules:
-        #         for i in range(math.ceil(INPUT_SIZE/NUM_RULES)):
-        #             op1.append(rule_op(rule, 3, INPUT_SIZE, op, start))
-        #             start += 1
+        if(NUM_RULES==2):
+            for i in range(INPUT_SIZE):
+                if(start in [0,1,4,5]):
+                    op1.append(rule_op(rules[0],3,INPUT_SIZE,op,start))
+                else:
+                    op1.append(rule_op(rules[1],3,INPUT_SIZE,op,start))
+                start+=1
+        if(NUM_RULES==3):
+            for i in range(INPUT_SIZE):
+                if(start in [0,1,6,7]):
+                    op1.append(rule_op(rules[2],3,INPUT_SIZE,op,start))
+                elif(start in [2,4]):
+                    op1.append(rule_op(rules[1],3,INPUT_SIZE,op,start))
+                elif(start in [3,5]):
+                    op1.append(rule_op(rules[0],3,INPUT_SIZE,op,start))
+                start+=1
+        if(NUM_RULES==4):
+            for i in range(INPUT_SIZE):
+                if(start in [0,1,4,5]):
+                    op1.append(rule_op(rules[2],3,INPUT_SIZE,op,start))
+                else:
+                    op1.append(rule_op(rules[3],3,INPUT_SIZE,op,start))
+                start+=1
+        else:
+            for rule in rules:
+                for i in range(math.ceil(INPUT_SIZE/NUM_RULES)):
+                    op1.append(rule_op(rule, 3, INPUT_SIZE, op, start))
+                    start += 1
         op1=op1[0:8]
         #######################################################################
-
+        
         #THIRD LAYER
         #######################################################################
         # op2=[]
         # start=0
         # for rule in rules:
-            # for i in range(math.ceil(INPUT_SIZE/NUM_RULES)):
-            #     op2.append(rule_op(rule, 3, INPUT_SIZE, op1, start))
-            #     start += 1
-        # # # if(NUM_RULES==2):
-        # # #     for i in range(INPUT_SIZE):
-        # # #         if(start in [0,1,4,5]):
-        # # #             op2.append(rule_op(rules[0],3,INPUT_SIZE,op1,start))
-        # # #         else:
-        # # #             op2.append(rule_op(rules[1],3,INPUT_SIZE,op1,start))
-        # # #         start+=1
+        #     for i in range(math.ceil(INPUT_SIZE/NUM_RULES)):
+        #         op1.append(rule_op(rule, 3, INPUT_SIZE, op1, start))
+        #         start += 1
+        # if(NUM_RULES==2):
+        #     for i in range(INPUT_SIZE):
+        #         if(start in [0,1,4,5]):
+        #             op2.append(rule_op(rules[0],3,INPUT_SIZE,op1,start))
+        #         else:
+        #             op2.append(rule_op(rules[1],3,INPUT_SIZE,op1,start))
+        #         start+=1
         # if(NUM_RULES==3):
         #     for i in range(INPUT_SIZE):
-        #         if(start in [0,1,2]):
+        #         if(start in [0,1,6,7]):
         #             op2.append(rule_op(rules[0],3,INPUT_SIZE,op1,start))
-        #         elif(start in [3,4]):
+        #         elif(start in [2,3]):
         #             op2.append(rule_op(rules[1],3,INPUT_SIZE,op1,start))
-        #         elif(start in [5,6,7]):
+        #         elif(start in [4,5]):
         #             op2.append(rule_op(rules[2],3,INPUT_SIZE,op1,start))
         #         start+=1
-        # # else:
-        # #     for rule in rules:
-        # #         for i in range(math.ceil(INPUT_SIZE/NUM_RULES)):
-        # #             op2.append(rule_op(rule, 3, INPUT_SIZE, op1, start))
-        # #             start += 1
+        # else:
+        #     for rule in rules:
+        #         for i in range(math.ceil(INPUT_SIZE/NUM_RULES)):
+        #             op2.append(rule_op(rule, 3, INPUT_SIZE, op1, start))
+        #             start += 1
         # op2=op2[0:8]
         #######################################################################
-
-        outputs.append(op1)
-
+        
+        outputs.append(op)
+        
+        
+    for i in range(len(inputs)):
+        print("{} -> {}".format(inputs[i],outputs[i]))
     return inputs, outputs
 
 
@@ -217,6 +228,7 @@ def diff_uniformity(decimal_repr):
     # for i in range(2**INPUT_SIZE):
     #     ddt[i][i] = 0
     ddt[0] = np.zeros(2**INPUT_SIZE)
+    print(ddt)
     return (np.amax(ddt))
 
 
@@ -304,3 +316,12 @@ def state_crypto_strength(rules_index, to_print):
         print(f"Strength: {round(reward,2)}")
 
     return reward, DU, NL
+
+
+
+
+inputs=[]
+outputs=[]
+rules_list=[41,45]
+strength, DU, NL = state_crypto_strength(rules_list, True)
+print("strength: {}, DU: {}, NL: {}".format(strength, DU, NL))
