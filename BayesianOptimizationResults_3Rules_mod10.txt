@@ -1,0 +1,527 @@
+DU = 18.0 NL=68.0
+Strength: 74.71
+DU = 14.0 NL=92.0
+Strength: 87.04
+DU = 16.0 NL=52.0
+Strength: 68.38
+DU = 36.0 NL=84.0
+Strength: 74.6
+DU = 34.0 NL=44.0
+Strength: 57.55
+DU = 20.0 NL=72.0
+Strength: 75.69
+DU = 50.0 NL=68.0
+Strength: 61.81
+DU = 24.0 NL=64.0
+Strength: 70.51
+DU = 34.0 NL=48.0
+Strength: 59.33
+DU = 18.0 NL=86.0
+Strength: 82.75
+DU = 12.0 NL=90.0
+Strength: 86.95
+DU = 20.0 NL=84.0
+Strength: 81.05
+DU = 20.0 NL=64.0
+Strength: 72.12
+DU = 18.0 NL=60.0
+Strength: 71.14
+DU = 18.0 NL=74.0
+Strength: 77.39
+DU = 20.0 NL=56.0
+Strength: 68.55
+DU = 16.0 NL=74.0
+Strength: 78.2
+DU = 20.0 NL=68.0
+Strength: 73.91
+DU = 18.0 NL=68.0
+Strength: 74.71
+DU = 32.0 NL=80.0
+Strength: 74.42
+DU = 16.0 NL=76.0
+Strength: 79.09
+DU = 54.0 NL=44.0
+Strength: 49.48
+DU = 256.0 NL=64.0
+Strength: -23.04
+DU = 20.0 NL=74.0
+Strength: 76.58
+DU = 18.0 NL=0.0
+Strength: 44.35
+DU = 20.0 NL=88.0
+Strength: 82.83
+DU = 22.0 NL=72.0
+Strength: 74.88
+DU = 22.0 NL=84.0
+Strength: 80.24
+DU = 30.0 NL=78.0
+Strength: 74.34
+DU = 256.0 NL=72.0
+Strength: -19.47
+DU = 40.0 NL=76.0
+Strength: 69.41
+DU = 24.0 NL=72.0
+Strength: 74.08
+DU = 18.0 NL=72.0
+Strength: 76.5
+DU = 46.0 NL=68.0
+Strength: 63.42
+DU = 22.0 NL=84.0
+Strength: 80.24
+DU = 20.0 NL=78.0
+Strength: 78.37
+DU = 32.0 NL=74.0
+Strength: 71.75
+DU = 24.0 NL=76.0
+Strength: 75.86
+DU = 22.0 NL=70.0
+Strength: 73.99
+DU = 14.0 NL=64.0
+Strength: 74.54
+DU = 256.0 NL=0.0
+Strength: -51.61
+DU = 16.0 NL=86.0
+Strength: 83.55
+DU = 16.0 NL=76.0
+Strength: 79.09
+DU = 12.0 NL=84.0
+Strength: 84.27
+DU = 16.0 NL=48.0
+Strength: 66.59
+DU = 24.0 NL=68.0
+Strength: 72.29
+DU = 16.0 NL=84.0
+Strength: 82.66
+DU = 46.0 NL=48.0
+Strength: 54.49
+DU = 38.0 NL=52.0
+Strength: 59.5
+DU = 24.0 NL=60.0
+Strength: 68.72
+DU = 32.0 NL=72.0
+Strength: 70.85
+DU = 16.0 NL=76.0
+Strength: 79.09
+DU = 18.0 NL=74.0
+Strength: 77.39
+DU = 16.0 NL=84.0
+Strength: 82.66
+DU = 12.0 NL=68.0
+Strength: 77.13
+DU = 34.0 NL=76.0
+Strength: 71.83
+DU = 70.0 NL=0.0
+Strength: 23.39
+DU = 34.0 NL=72.0
+Strength: 70.05
+DU = 16.0 NL=76.0
+Strength: 79.09
+DU = 20.0 NL=78.0
+Strength: 78.37
+DU = 40.0 NL=52.0
+Strength: 58.7
+DU = 18.0 NL=72.0
+Strength: 76.5
+DU = 18.0 NL=48.0
+Strength: 65.78
+DU = 18.0 NL=78.0
+Strength: 79.18
+DU = 24.0 NL=60.0
+Strength: 68.72
+DU = 18.0 NL=86.0
+Strength: 82.75
+DU = 40.0 NL=72.0
+Strength: 67.63
+DU = 38.0 NL=52.0
+Strength: 59.5
+DU = 20.0 NL=82.0
+Strength: 80.16
+DU = 14.0 NL=84.0
+Strength: 83.47
+DU = 22.0 NL=78.0
+Strength: 77.56
+DU = 26.0 NL=64.0
+Strength: 69.7
+DU = 32.0 NL=48.0
+Strength: 60.14
+DU = 20.0 NL=80.0
+Strength: 79.26
+DU = 34.0 NL=86.0
+Strength: 76.3
+DU = 18.0 NL=84.0
+Strength: 81.85
+DU = 22.0 NL=68.0
+Strength: 73.1
+DU = 30.0 NL=76.0
+Strength: 73.44
+DU = 22.0 NL=78.0
+Strength: 77.56
+DU = 22.0 NL=48.0
+Strength: 64.17
+DU = 48.0 NL=64.0
+Strength: 60.83
+DU = 16.0 NL=56.0
+Strength: 70.16
+DU = 42.0 NL=0.0
+Strength: 34.68
+DU = 36.0 NL=52.0
+Strength: 60.31
+DU = 26.0 NL=36.0
+Strength: 57.2
+DU = 64.0 NL=68.0
+Strength: 56.16
+DU = 20.0 NL=76.0
+Strength: 77.48
+DU = 18.0 NL=78.0
+Strength: 79.18
+DU = 14.0 NL=76.0
+Strength: 79.9
+DU = 34.0 NL=70.0
+Strength: 69.15
+DU = 64.0 NL=64.0
+Strength: 54.38
+DU = 18.0 NL=86.0
+Strength: 82.75
+DU = 18.0 NL=72.0
+Strength: 76.5
+DU = 32.0 NL=48.0
+Strength: 60.14
+DU = 18.0 NL=48.0
+Strength: 65.78
+DU = 20.0 NL=78.0
+Strength: 78.37
+DU = 32.0 NL=78.0
+Strength: 73.53
+DU = 14.0 NL=84.0
+Strength: 83.47
+DU = 22.0 NL=72.0
+Strength: 74.88
+DU = 16.0 NL=88.0
+Strength: 84.45
+DU = 24.0 NL=86.0
+Strength: 80.33
+DU = 20.0 NL=56.0
+Strength: 68.55
+DU = 18.0 NL=0.0
+Strength: 44.35
+DU = 32.0 NL=84.0
+Strength: 76.21
+DU = 16.0 NL=92.0
+Strength: 86.23
+DU = 14.0 NL=84.0
+Strength: 83.47
+DU = 16.0 NL=92.0
+Strength: 86.23
+DU = 12.0 NL=88.0
+Strength: 86.06
+DU = 20.0 NL=76.0
+Strength: 77.48
+DU = 18.0 NL=88.0
+Strength: 83.64
+DU = 34.0 NL=80.0
+Strength: 73.62
+DU = 18.0 NL=80.0
+Strength: 80.07
+DU = 18.0 NL=92.0
+Strength: 85.43
+DU = 16.0 NL=92.0
+Strength: 86.23
+DU = 18.0 NL=80.0
+Strength: 80.07
+DU = 18.0 NL=94.0
+Strength: 86.32
+DU = 12.0 NL=92.0
+Strength: 87.85
+DU = 34.0 NL=86.0
+Strength: 76.3
+DU = 16.0 NL=64.0
+Strength: 73.73
+DU = 32.0 NL=72.0
+Strength: 70.85
+DU = 20.0 NL=74.0
+Strength: 76.58
+DU = 18.0 NL=84.0
+Strength: 81.85
+DU = 32.0 NL=86.0
+Strength: 77.1
+DU = 20.0 NL=84.0
+Strength: 81.05
+DU = 16.0 NL=94.0
+Strength: 87.13
+DU = 18.0 NL=66.0
+Strength: 73.82
+DU = 16.0 NL=86.0
+Strength: 83.55
+DU = 18.0 NL=84.0
+Strength: 81.85
+DU = 18.0 NL=82.0
+Strength: 80.96
+DU = 22.0 NL=78.0
+Strength: 77.56
+DU = 16.0 NL=86.0
+Strength: 83.55
+DU = 32.0 NL=76.0
+Strength: 72.64
+DU = 20.0 NL=84.0
+Strength: 81.05
+DU = 34.0 NL=82.0
+Strength: 74.51
+DU = 14.0 NL=90.0
+Strength: 86.15
+DU = 32.0 NL=82.0
+Strength: 75.32
+DU = 18.0 NL=68.0
+Strength: 74.71
+DU = 16.0 NL=86.0
+Strength: 83.55
+DU = 22.0 NL=84.0
+Strength: 80.24
+DU = 34.0 NL=80.0
+Strength: 73.62
+DU = 16.0 NL=88.0
+Strength: 84.45
+DU = 44.0 NL=64.0
+Strength: 62.44
+DU = 36.0 NL=48.0
+Strength: 58.53
+DU = 20.0 NL=72.0
+Strength: 75.69
+DU = 20.0 NL=76.0
+Strength: 77.48
+DU = 18.0 NL=80.0
+Strength: 80.07
+DU = 16.0 NL=84.0
+Strength: 82.66
+DU = 16.0 NL=88.0
+Strength: 84.45
+DU = 18.0 NL=80.0
+Strength: 80.07
+DU = 16.0 NL=86.0
+Strength: 83.55
+DU = 16.0 NL=90.0
+Strength: 85.34
+DU = 24.0 NL=78.0
+Strength: 76.76
+DU = 16.0 NL=84.0
+Strength: 82.66
+DU = 18.0 NL=76.0
+Strength: 78.28
+DU = 16.0 NL=86.0
+Strength: 83.55
+DU = 18.0 NL=82.0
+Strength: 80.96
+DU = 16.0 NL=80.0
+Strength: 80.88
+DU = 18.0 NL=80.0
+Strength: 80.07
+DU = 18.0 NL=76.0
+Strength: 78.28
+DU = 20.0 NL=76.0
+Strength: 77.48
+DU = 18.0 NL=80.0
+Strength: 80.07
+DU = 16.0 NL=88.0
+Strength: 84.45
+DU = 36.0 NL=72.0
+Strength: 69.24
+DU = 34.0 NL=72.0
+Strength: 70.05
+DU = 18.0 NL=80.0
+Strength: 80.07
+DU = 16.0 NL=86.0
+Strength: 83.55
+DU = 20.0 NL=68.0
+Strength: 73.91
+DU = 18.0 NL=90.0
+Strength: 84.53
+DU = 40.0 NL=60.0
+Strength: 62.27
+DU = 20.0 NL=84.0
+Strength: 81.05
+DU = 36.0 NL=56.0
+Strength: 62.1
+DU = 20.0 NL=80.0
+Strength: 79.26
+DU = 20.0 NL=90.0
+Strength: 83.73
+DU = 28.0 NL=60.0
+Strength: 67.11
+DU = 18.0 NL=84.0
+Strength: 81.85
+DU = 20.0 NL=80.0
+Strength: 79.26
+DU = 12.0 NL=92.0
+Strength: 87.85
+DU = 22.0 NL=84.0
+Strength: 80.24
+DU = 18.0 NL=92.0
+Strength: 85.43
+DU = 20.0 NL=90.0
+Strength: 83.73
+DU = 20.0 NL=80.0
+Strength: 79.26
+DU = 20.0 NL=76.0
+Strength: 77.48
+DU = 34.0 NL=68.0
+Strength: 68.26
+DU = 12.0 NL=90.0
+Strength: 86.95
+DU = 20.0 NL=76.0
+Strength: 77.48
+DU = 18.0 NL=88.0
+Strength: 83.64
+DU = 32.0 NL=78.0
+Strength: 73.53
+DU = 20.0 NL=68.0
+Strength: 73.91
+DU = 38.0 NL=78.0
+Strength: 71.11
+DU = 20.0 NL=76.0
+Strength: 77.48
+DU = 22.0 NL=78.0
+Strength: 77.56
+DU = 20.0 NL=56.0
+Strength: 68.55
+DU = 24.0 NL=56.0
+Strength: 66.94
+DU = 20.0 NL=74.0
+Strength: 76.58
+DU = 66.0 NL=66.0
+Strength: 54.46
+DU = 22.0 NL=72.0
+Strength: 74.88
+DU = 20.0 NL=56.0
+Strength: 68.55
+DU = 64.0 NL=64.0
+Strength: 54.38
+DU = 46.0 NL=0.0
+Strength: 33.06
+DU = 18.0 NL=90.0
+Strength: 84.53
+DU = 40.0 NL=64.0
+Strength: 64.06
+DU = 16.0 NL=92.0
+Strength: 86.23
+DU = 20.0 NL=88.0
+Strength: 82.83
+DU = 18.0 NL=80.0
+Strength: 80.07
+DU = 10.0 NL=90.0
+Strength: 87.76
+DU = 32.0 NL=70.0
+Strength: 69.96
+DU = 16.0 NL=90.0
+Strength: 85.34
+DU = 64.0 NL=68.0
+Strength: 56.16
+DU = 28.0 NL=76.0
+Strength: 74.25
+DU = 20.0 NL=72.0
+Strength: 75.69
+DU = 12.0 NL=84.0
+Strength: 84.27
+DU = 24.0 NL=76.0
+Strength: 75.86
+DU = 56.0 NL=60.0
+Strength: 55.82
+DU = 24.0 NL=80.0
+Strength: 77.65
+DU = 32.0 NL=86.0
+Strength: 77.1
+DU = 32.0 NL=84.0
+Strength: 76.21
+DU = 20.0 NL=36.0
+Strength: 59.62
+DU = 46.0 NL=64.0
+Strength: 61.64
+DU = 32.0 NL=70.0
+Strength: 69.96
+DU = 20.0 NL=88.0
+Strength: 82.83
+DU = 16.0 NL=86.0
+Strength: 83.55
+DU = 14.0 NL=60.0
+Strength: 72.75
+DU = 16.0 NL=76.0
+Strength: 79.09
+DU = 40.0 NL=76.0
+Strength: 69.41
+DU = 18.0 NL=82.0
+Strength: 80.96
+DU = 32.0 NL=72.0
+Strength: 70.85
+DU = 16.0 NL=88.0
+Strength: 84.45
+DU = 38.0 NL=68.0
+Strength: 66.65
+DU = 32.0 NL=60.0
+Strength: 65.5
+DU = 24.0 NL=60.0
+Strength: 68.72
+DU = 20.0 NL=78.0
+Strength: 78.37
+DU = 32.0 NL=72.0
+Strength: 70.85
+DU = 14.0 NL=78.0
+Strength: 80.79
+DU = 64.0 NL=56.0
+Strength: 50.81
+DU = 24.0 NL=84.0
+Strength: 79.44
+DU = 18.0 NL=90.0
+Strength: 84.53
+DU = 36.0 NL=76.0
+Strength: 71.03
+DU = 32.0 NL=82.0
+Strength: 75.32
+DU = 24.0 NL=60.0
+Strength: 68.72
+DU = 34.0 NL=68.0
+Strength: 68.26
+DU = 24.0 NL=68.0
+Strength: 72.29
+DU = 28.0 NL=60.0
+Strength: 67.11
+DU = 20.0 NL=80.0
+Strength: 79.26
+DU = 22.0 NL=52.0
+Strength: 65.96
+DU = 18.0 NL=68.0
+Strength: 74.71
+DU = 46.0 NL=52.0
+Strength: 56.28
+DU = 18.0 NL=64.0
+Strength: 72.93
+DU = 20.0 NL=64.0
+Strength: 72.12
+DU = 38.0 NL=56.0
+Strength: 61.29
+DU = 18.0 NL=80.0
+Strength: 80.07
+DU = 18.0 NL=84.0
+Strength: 81.85
+DU = 16.0 NL=80.0
+Strength: 80.88
+DU = 20.0 NL=74.0
+Strength: 76.58
+DU = 48.0 NL=60.0
+Strength: 59.04
+DU = 40.0 NL=74.0
+Strength: 68.52
+DU = 20.0 NL=80.0
+Strength: 79.26
+Exiting the Bayesian Optimization...
+
+FINAL REPORT:
+Number of States Visited: 250
+Best Strength: 87.85
+Best DU: 12.0 Best NL: 92.0
+Average Strength of visited States: 74.27
+Standard Deviation of strength: 11.93
+Number of states with best strengths: 2
+No. of linear States: 6
+---------------------------------------------------------------------
+Best States:
+[[11, 25, 18], [52, 4, 41]]
+Exceptions: 
+[[2, 17, 17], [53, 48, 48], [1, 0, 24], [16, 55, 55], [36, 18, 18], [16, 35, 1]]

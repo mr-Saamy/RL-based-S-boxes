@@ -1,0 +1,1036 @@
+Importing Model..
+Initial State: ['rule_108', 'rule_68', 'rule_216']
+Replacing rule_108 with rule_212...
+Current State: ['rule_212', 'rule_68', 'rule_216']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_216 with rule_192...
+Current State: ['rule_212', 'rule_68', 'rule_192']
+DU = 52.0 NL=0.0
+Strength: 30.65
+Replacing rule_192 with rule_232...
+Current State: ['rule_212', 'rule_68', 'rule_232']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_212 with rule_96...
+Current State: ['rule_96', 'rule_68', 'rule_232']
+DU = 44.0 NL=0.0
+Strength: 33.87
+Replacing rule_68 with rule_226...
+Current State: ['rule_96', 'rule_226', 'rule_232']
+DU = 52.0 NL=0.0
+Strength: 30.65
+Replacing rule_232 with rule_108...
+Current State: ['rule_96', 'rule_226', 'rule_108']
+DU = 22.0 NL=0.0
+Strength: 42.74
+Replacing rule_226 with rule_10...
+Current State: ['rule_96', 'rule_10', 'rule_108']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_10 with rule_212...
+Current State: ['rule_96', 'rule_212', 'rule_108']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_212 with rule_202...
+Current State: ['rule_96', 'rule_202', 'rule_108']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_202 with rule_24...
+Current State: ['rule_96', 'rule_24', 'rule_108']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_24 with rule_36...
+Current State: ['rule_96', 'rule_36', 'rule_108']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_36 with rule_184...
+Current State: ['rule_96', 'rule_184', 'rule_108']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_108 with rule_228...
+Current State: ['rule_96', 'rule_184', 'rule_228']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_184 with rule_222...
+Current State: ['rule_96', 'rule_222', 'rule_228']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_96 with rule_58...
+Current State: ['rule_58', 'rule_222', 'rule_228']
+DU = 16.0 NL=0.0
+Strength: 45.16
+Replacing rule_58 with rule_160...
+Current State: ['rule_160', 'rule_222', 'rule_228']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_222 with rule_216...
+Current State: ['rule_160', 'rule_216', 'rule_228']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_228 with rule_96...
+Current State: ['rule_160', 'rule_216', 'rule_96']
+DU = 48.0 NL=0.0
+Strength: 32.26
+Replacing rule_160 with rule_212...
+Current State: ['rule_212', 'rule_216', 'rule_96']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_96 with rule_24...
+Current State: ['rule_212', 'rule_216', 'rule_24']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_212 with rule_58...
+Current State: ['rule_58', 'rule_216', 'rule_24']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_24 with rule_130...
+Current State: ['rule_58', 'rule_216', 'rule_130']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_216 with rule_20...
+Current State: ['rule_58', 'rule_20', 'rule_130']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_130 with rule_108...
+Current State: ['rule_58', 'rule_20', 'rule_108']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_20 with rule_252...
+Current State: ['rule_58', 'rule_252', 'rule_108']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_108 with rule_114...
+Current State: ['rule_58', 'rule_252', 'rule_114']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_58 with rule_212...
+Current State: ['rule_212', 'rule_252', 'rule_114']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_114 with rule_6...
+Current State: ['rule_212', 'rule_252', 'rule_6']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_252 with rule_144...
+Current State: ['rule_212', 'rule_144', 'rule_6']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_212 with rule_116...
+Current State: ['rule_116', 'rule_144', 'rule_6']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_116 with rule_238...
+Current State: ['rule_238', 'rule_144', 'rule_6']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_6 with rule_190...
+Current State: ['rule_238', 'rule_144', 'rule_190']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_144 with rule_184...
+Current State: ['rule_238', 'rule_184', 'rule_190']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_190 with rule_156...
+Current State: ['rule_238', 'rule_184', 'rule_156']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_156 with rule_30...
+Current State: ['rule_238', 'rule_184', 'rule_30']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_238 with rule_250...
+Current State: ['rule_250', 'rule_184', 'rule_30']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_250 with rule_252...
+Current State: ['rule_252', 'rule_184', 'rule_30']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_184 with rule_68...
+Current State: ['rule_252', 'rule_68', 'rule_30']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_30 with rule_126...
+Current State: ['rule_252', 'rule_68', 'rule_126']
+DU = 44.0 NL=0.0
+Strength: 33.87
+Replacing rule_68 with rule_80...
+Current State: ['rule_252', 'rule_80', 'rule_126']
+DU = 88.0 NL=0.0
+Strength: 16.13
+Replacing rule_252 with rule_116...
+Current State: ['rule_116', 'rule_80', 'rule_126']
+DU = 108.0 NL=0.0
+Strength: 8.06
+Replacing rule_116 with rule_132...
+Current State: ['rule_132', 'rule_80', 'rule_126']
+DU = 78.0 NL=0.0
+Strength: 20.16
+Replacing rule_80 with rule_36...
+Current State: ['rule_132', 'rule_36', 'rule_126']
+DU = 50.0 NL=0.0
+Strength: 31.45
+Replacing rule_132 with rule_6...
+Current State: ['rule_6', 'rule_36', 'rule_126']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_36 with rule_66...
+Current State: ['rule_6', 'rule_66', 'rule_126']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_6 with rule_108...
+Current State: ['rule_108', 'rule_66', 'rule_126']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_108 with rule_120...
+Current State: ['rule_120', 'rule_66', 'rule_126']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_126 with rule_172...
+Current State: ['rule_120', 'rule_66', 'rule_172']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_120 with rule_238...
+Current State: ['rule_238', 'rule_66', 'rule_172']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_66 with rule_212...
+Current State: ['rule_238', 'rule_212', 'rule_172']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_238 with rule_36...
+Current State: ['rule_36', 'rule_212', 'rule_172']
+DU = 256.0 NL=0.0
+Strength: -51.61
+Replacing rule_36 with rule_80...
+Current State: ['rule_80', 'rule_212', 'rule_172']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_172 with rule_210...
+Current State: ['rule_80', 'rule_212', 'rule_210']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_210 with rule_30...
+Current State: ['rule_80', 'rule_212', 'rule_30']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_30 with rule_24...
+Current State: ['rule_80', 'rule_212', 'rule_24']
+DU = 66.0 NL=0.0
+Strength: 25.0
+Replacing rule_24 with rule_120...
+Current State: ['rule_80', 'rule_212', 'rule_120']
+DU = 16.0 NL=0.0
+Strength: 45.16
+Replacing rule_120 with rule_6...
+Current State: ['rule_80', 'rule_212', 'rule_6']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_212 with rule_120...
+Current State: ['rule_80', 'rule_120', 'rule_6']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_6 with rule_72...
+Current State: ['rule_80', 'rule_120', 'rule_72']
+DU = 56.0 NL=0.0
+Strength: 29.03
+Replacing rule_72 with rule_78...
+Current State: ['rule_80', 'rule_120', 'rule_78']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_80 with rule_132...
+Current State: ['rule_132', 'rule_120', 'rule_78']
+DU = 26.0 NL=0.0
+Strength: 41.13
+Replacing rule_120 with rule_198...
+Current State: ['rule_132', 'rule_198', 'rule_78']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_78 with rule_202...
+Current State: ['rule_132', 'rule_198', 'rule_202']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_132 with rule_178...
+Current State: ['rule_178', 'rule_198', 'rule_202']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_198 with rule_130...
+Current State: ['rule_178', 'rule_130', 'rule_202']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_130 with rule_222...
+Current State: ['rule_178', 'rule_222', 'rule_202']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_178 with rule_6...
+Current State: ['rule_6', 'rule_222', 'rule_202']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_6 with rule_80...
+Current State: ['rule_80', 'rule_222', 'rule_202']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_202 with rule_96...
+Current State: ['rule_80', 'rule_222', 'rule_96']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_222 with rule_58...
+Current State: ['rule_80', 'rule_58', 'rule_96']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_80 with rule_172...
+Current State: ['rule_172', 'rule_58', 'rule_96']
+DU = 26.0 NL=0.0
+Strength: 41.13
+Replacing rule_96 with rule_252...
+Current State: ['rule_172', 'rule_58', 'rule_252']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_58 with rule_144...
+Current State: ['rule_172', 'rule_144', 'rule_252']
+DU = 58.0 NL=0.0
+Strength: 28.23
+Replacing rule_144 with rule_136...
+Current State: ['rule_172', 'rule_136', 'rule_252']
+DU = 48.0 NL=0.0
+Strength: 32.26
+Replacing rule_136 with rule_30...
+Current State: ['rule_172', 'rule_30', 'rule_252']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_172 with rule_34...
+Current State: ['rule_34', 'rule_30', 'rule_252']
+DU = 70.0 NL=0.0
+Strength: 23.39
+Replacing rule_252 with rule_180...
+Current State: ['rule_34', 'rule_30', 'rule_180']
+DU = 66.0 NL=0.0
+Strength: 25.0
+Replacing rule_34 with rule_154...
+Current State: ['rule_154', 'rule_30', 'rule_180']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_180 with rule_126...
+Current State: ['rule_154', 'rule_30', 'rule_126']
+DU = 84.0 NL=0.0
+Strength: 17.74
+Replacing rule_30 with rule_144...
+Current State: ['rule_154', 'rule_144', 'rule_126']
+DU = 50.0 NL=0.0
+Strength: 31.45
+Replacing rule_126 with rule_24...
+Current State: ['rule_154', 'rule_144', 'rule_24']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_154 with rule_202...
+Current State: ['rule_202', 'rule_144', 'rule_24']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_144 with rule_198...
+Current State: ['rule_202', 'rule_198', 'rule_24']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_198 with rule_18...
+Current State: ['rule_202', 'rule_18', 'rule_24']
+DU = 80.0 NL=0.0
+Strength: 19.35
+Replacing rule_24 with rule_232...
+Current State: ['rule_202', 'rule_18', 'rule_232']
+DU = 68.0 NL=0.0
+Strength: 24.19
+Replacing rule_202 with rule_6...
+Current State: ['rule_6', 'rule_18', 'rule_232']
+DU = 66.0 NL=0.0
+Strength: 25.0
+Replacing rule_18 with rule_58...
+Current State: ['rule_6', 'rule_58', 'rule_232']
+DU = 62.0 NL=0.0
+Strength: 26.61
+Replacing rule_232 with rule_66...
+Current State: ['rule_6', 'rule_58', 'rule_66']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_58 with rule_126...
+Current State: ['rule_6', 'rule_126', 'rule_66']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_126 with rule_132...
+Current State: ['rule_6', 'rule_132', 'rule_66']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_66 with rule_68...
+Current State: ['rule_6', 'rule_132', 'rule_68']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_6 with rule_178...
+Current State: ['rule_178', 'rule_132', 'rule_68']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_178 with rule_154...
+Current State: ['rule_154', 'rule_132', 'rule_68']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_132 with rule_212...
+Current State: ['rule_154', 'rule_212', 'rule_68']
+DU = 44.0 NL=0.0
+Strength: 33.87
+Replacing rule_154 with rule_136...
+Current State: ['rule_136', 'rule_212', 'rule_68']
+DU = 44.0 NL=0.0
+Strength: 33.87
+Replacing rule_68 with rule_72...
+Current State: ['rule_136', 'rule_212', 'rule_72']
+DU = 68.0 NL=0.0
+Strength: 24.19
+Replacing rule_136 with rule_144...
+Current State: ['rule_144', 'rule_212', 'rule_72']
+DU = 56.0 NL=0.0
+Strength: 29.03
+Replacing rule_144 with rule_92...
+Current State: ['rule_92', 'rule_212', 'rule_72']
+DU = 64.0 NL=0.0
+Strength: 25.81
+Replacing rule_212 with rule_30...
+Current State: ['rule_92', 'rule_30', 'rule_72']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_92 with rule_142...
+Current State: ['rule_142', 'rule_30', 'rule_72']
+DU = 56.0 NL=0.0
+Strength: 29.03
+Replacing rule_72 with rule_202...
+Current State: ['rule_142', 'rule_30', 'rule_202']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_142 with rule_40...
+Current State: ['rule_40', 'rule_30', 'rule_202']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_40 with rule_58...
+Current State: ['rule_58', 'rule_30', 'rule_202']
+DU = 22.0 NL=0.0
+Strength: 42.74
+Replacing rule_30 with rule_144...
+Current State: ['rule_58', 'rule_144', 'rule_202']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_144 with rule_78...
+Current State: ['rule_58', 'rule_78', 'rule_202']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_78 with rule_46...
+Current State: ['rule_58', 'rule_46', 'rule_202']
+DU = 44.0 NL=0.0
+Strength: 33.87
+Replacing rule_202 with rule_154...
+Current State: ['rule_58', 'rule_46', 'rule_154']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_154 with rule_222...
+Current State: ['rule_58', 'rule_46', 'rule_222']
+DU = 48.0 NL=0.0
+Strength: 32.26
+Replacing rule_222 with rule_86...
+Current State: ['rule_58', 'rule_46', 'rule_86']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_46 with rule_78...
+Current State: ['rule_58', 'rule_78', 'rule_86']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_86 with rule_106...
+Current State: ['rule_58', 'rule_78', 'rule_106']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_58 with rule_198...
+Current State: ['rule_198', 'rule_78', 'rule_106']
+DU = 22.0 NL=0.0
+Strength: 42.74
+Replacing rule_198 with rule_232...
+Current State: ['rule_232', 'rule_78', 'rule_106']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_232 with rule_18...
+Current State: ['rule_18', 'rule_78', 'rule_106']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_106 with rule_228...
+Current State: ['rule_18', 'rule_78', 'rule_228']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_78 with rule_246...
+Current State: ['rule_18', 'rule_246', 'rule_228']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_228 with rule_212...
+Current State: ['rule_18', 'rule_246', 'rule_212']
+DU = 66.0 NL=0.0
+Strength: 25.0
+Replacing rule_212 with rule_130...
+Current State: ['rule_18', 'rule_246', 'rule_130']
+DU = 44.0 NL=0.0
+Strength: 33.87
+Replacing rule_130 with rule_216...
+Current State: ['rule_18', 'rule_246', 'rule_216']
+DU = 44.0 NL=0.0
+Strength: 33.87
+Replacing rule_18 with rule_48...
+Current State: ['rule_48', 'rule_246', 'rule_216']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_246 with rule_80...
+Current State: ['rule_48', 'rule_80', 'rule_216']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_48 with rule_92...
+Current State: ['rule_92', 'rule_80', 'rule_216']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_216 with rule_198...
+Current State: ['rule_92', 'rule_80', 'rule_198']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_80 with rule_154...
+Current State: ['rule_92', 'rule_154', 'rule_198']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_154 with rule_190...
+Current State: ['rule_92', 'rule_190', 'rule_198']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_190 with rule_228...
+Current State: ['rule_92', 'rule_228', 'rule_198']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_92 with rule_130...
+Current State: ['rule_130', 'rule_228', 'rule_198']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_228 with rule_156...
+Current State: ['rule_130', 'rule_156', 'rule_198']
+DU = 22.0 NL=0.0
+Strength: 42.74
+Replacing rule_198 with rule_178...
+Current State: ['rule_130', 'rule_156', 'rule_178']
+DU = 54.0 NL=0.0
+Strength: 29.84
+Replacing rule_178 with rule_6...
+Current State: ['rule_130', 'rule_156', 'rule_6']
+DU = 30.0 NL=0.0
+Strength: 39.52
+Replacing rule_130 with rule_86...
+Current State: ['rule_86', 'rule_156', 'rule_6']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_156 with rule_160...
+Current State: ['rule_86', 'rule_160', 'rule_6']
+DU = 50.0 NL=0.0
+Strength: 31.45
+Replacing rule_160 with rule_114...
+Current State: ['rule_86', 'rule_114', 'rule_6']
+DU = 22.0 NL=0.0
+Strength: 42.74
+Replacing rule_6 with rule_80...
+Current State: ['rule_86', 'rule_114', 'rule_80']
+DU = 26.0 NL=0.0
+Strength: 41.13
+Replacing rule_80 with rule_136...
+Current State: ['rule_86', 'rule_114', 'rule_136']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Replacing rule_136 with rule_34...
+Current State: ['rule_86', 'rule_114', 'rule_34']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Replacing rule_34 with rule_54...
+Current State: ['rule_86', 'rule_114', 'rule_54']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_114 with rule_198...
+Current State: ['rule_86', 'rule_198', 'rule_54']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_54 with rule_46...
+Current State: ['rule_86', 'rule_198', 'rule_46']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_198 with rule_6...
+Current State: ['rule_86', 'rule_6', 'rule_46']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Replacing rule_6 with rule_180...
+Current State: ['rule_86', 'rule_180', 'rule_46']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Replacing rule_180 with rule_48...
+Current State: ['rule_86', 'rule_48', 'rule_46']
+DU = 66.0 NL=0.0
+Strength: 25.0
+Replacing rule_86 with rule_130...
+Current State: ['rule_130', 'rule_48', 'rule_46']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_130 with rule_58...
+Current State: ['rule_58', 'rule_48', 'rule_46']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_48 with rule_252...
+Current State: ['rule_58', 'rule_252', 'rule_46']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_58 with rule_246...
+Current State: ['rule_246', 'rule_252', 'rule_46']
+DU = 52.0 NL=0.0
+Strength: 30.65
+Replacing rule_46 with rule_80...
+Current State: ['rule_246', 'rule_252', 'rule_80']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_252 with rule_232...
+Current State: ['rule_246', 'rule_232', 'rule_80']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_80 with rule_154...
+Current State: ['rule_246', 'rule_232', 'rule_154']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_246 with rule_78...
+Current State: ['rule_78', 'rule_232', 'rule_154']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_154 with rule_198...
+Current State: ['rule_78', 'rule_232', 'rule_198']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_198 with rule_114...
+Current State: ['rule_78', 'rule_232', 'rule_114']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_78 with rule_6...
+Current State: ['rule_6', 'rule_232', 'rule_114']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_6 with rule_126...
+Current State: ['rule_126', 'rule_232', 'rule_114']
+DU = 256.0 NL=0.0
+Strength: -51.61
+Replacing rule_126 with rule_216...
+Current State: ['rule_216', 'rule_232', 'rule_114']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_114 with rule_180...
+Current State: ['rule_216', 'rule_232', 'rule_180']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_216 with rule_12...
+Current State: ['rule_12', 'rule_232', 'rule_180']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_180 with rule_192...
+Current State: ['rule_12', 'rule_232', 'rule_192']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_232 with rule_80...
+Current State: ['rule_12', 'rule_80', 'rule_192']
+DU = 48.0 NL=0.0
+Strength: 32.26
+Replacing rule_192 with rule_78...
+Current State: ['rule_12', 'rule_80', 'rule_78']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_80 with rule_178...
+Current State: ['rule_12', 'rule_178', 'rule_78']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_178 with rule_96...
+Current State: ['rule_12', 'rule_96', 'rule_78']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_78 with rule_6...
+Current State: ['rule_12', 'rule_96', 'rule_6']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_6 with rule_48...
+Current State: ['rule_12', 'rule_96', 'rule_48']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_96 with rule_54...
+Current State: ['rule_12', 'rule_54', 'rule_48']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_12 with rule_132...
+Current State: ['rule_132', 'rule_54', 'rule_48']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Replacing rule_48 with rule_96...
+Current State: ['rule_132', 'rule_54', 'rule_96']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_54 with rule_108...
+Current State: ['rule_132', 'rule_108', 'rule_96']
+DU = 26.0 NL=0.0
+Strength: 41.13
+Replacing rule_108 with rule_144...
+Current State: ['rule_132', 'rule_144', 'rule_96']
+DU = 44.0 NL=0.0
+Strength: 33.87
+Replacing rule_132 with rule_58...
+Current State: ['rule_58', 'rule_144', 'rule_96']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_96 with rule_106...
+Current State: ['rule_58', 'rule_144', 'rule_106']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_106 with rule_154...
+Current State: ['rule_58', 'rule_144', 'rule_154']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_144 with rule_210...
+Current State: ['rule_58', 'rule_210', 'rule_154']
+DU = 16.0 NL=0.0
+Strength: 45.16
+Replacing rule_58 with rule_126...
+Current State: ['rule_126', 'rule_210', 'rule_154']
+DU = 22.0 NL=0.0
+Strength: 42.74
+Replacing rule_154 with rule_216...
+Current State: ['rule_126', 'rule_210', 'rule_216']
+DU = 26.0 NL=0.0
+Strength: 41.13
+Replacing rule_216 with rule_252...
+Current State: ['rule_126', 'rule_210', 'rule_252']
+DU = 54.0 NL=0.0
+Strength: 29.84
+Replacing rule_252 with rule_228...
+Current State: ['rule_126', 'rule_210', 'rule_228']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Replacing rule_228 with rule_250...
+Current State: ['rule_126', 'rule_210', 'rule_250']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Replacing rule_250 with rule_106...
+Current State: ['rule_126', 'rule_210', 'rule_106']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_126 with rule_172...
+Current State: ['rule_172', 'rule_210', 'rule_106']
+DU = 22.0 NL=0.0
+Strength: 42.74
+Replacing rule_106 with rule_144...
+Current State: ['rule_172', 'rule_210', 'rule_144']
+DU = 22.0 NL=0.0
+Strength: 42.74
+Replacing rule_172 with rule_228...
+Current State: ['rule_228', 'rule_210', 'rule_144']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_228 with rule_24...
+Current State: ['rule_24', 'rule_210', 'rule_144']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_24 with rule_86...
+Current State: ['rule_86', 'rule_210', 'rule_144']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Replacing rule_86 with rule_228...
+Current State: ['rule_228', 'rule_210', 'rule_144']
+Replacing rule_144 with rule_72...
+Current State: ['rule_228', 'rule_210', 'rule_72']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_210 with rule_156...
+Current State: ['rule_228', 'rule_156', 'rule_72']
+DU = 30.0 NL=0.0
+Strength: 39.52
+Replacing rule_156 with rule_144...
+Current State: ['rule_228', 'rule_144', 'rule_72']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_144 with rule_116...
+Current State: ['rule_228', 'rule_116', 'rule_72']
+DU = 56.0 NL=0.0
+Strength: 29.03
+Replacing rule_228 with rule_160...
+Current State: ['rule_160', 'rule_116', 'rule_72']
+DU = 72.0 NL=0.0
+Strength: 22.58
+Replacing rule_72 with rule_252...
+Current State: ['rule_160', 'rule_116', 'rule_252']
+DU = 72.0 NL=0.0
+Strength: 22.58
+Replacing rule_160 with rule_86...
+Current State: ['rule_86', 'rule_116', 'rule_252']
+DU = 82.0 NL=0.0
+Strength: 18.55
+Replacing rule_116 with rule_156...
+Current State: ['rule_86', 'rule_156', 'rule_252']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_86 with rule_238...
+Current State: ['rule_238', 'rule_156', 'rule_252']
+DU = 50.0 NL=0.0
+Strength: 31.45
+Replacing rule_252 with rule_12...
+Current State: ['rule_238', 'rule_156', 'rule_12']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_12 with rule_18...
+Current State: ['rule_238', 'rule_156', 'rule_18']
+DU = 50.0 NL=0.0
+Strength: 31.45
+Replacing rule_156 with rule_20...
+Current State: ['rule_238', 'rule_20', 'rule_18']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_20 with rule_184...
+Current State: ['rule_238', 'rule_184', 'rule_18']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_238 with rule_232...
+Current State: ['rule_232', 'rule_184', 'rule_18']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_184 with rule_132...
+Current State: ['rule_232', 'rule_132', 'rule_18']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_18 with rule_36...
+Current State: ['rule_232', 'rule_132', 'rule_36']
+DU = 72.0 NL=0.0
+Strength: 22.58
+Replacing rule_36 with rule_80...
+Current State: ['rule_232', 'rule_132', 'rule_80']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_132 with rule_106...
+Current State: ['rule_232', 'rule_106', 'rule_80']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_106 with rule_172...
+Current State: ['rule_232', 'rule_172', 'rule_80']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_172 with rule_202...
+Current State: ['rule_232', 'rule_202', 'rule_80']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_232 with rule_216...
+Current State: ['rule_216', 'rule_202', 'rule_80']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_202 with rule_222...
+Current State: ['rule_216', 'rule_222', 'rule_80']
+DU = 26.0 NL=0.0
+Strength: 41.13
+Replacing rule_216 with rule_180...
+Current State: ['rule_180', 'rule_222', 'rule_80']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_80 with rule_48...
+Current State: ['rule_180', 'rule_222', 'rule_48']
+DU = 40.0 NL=0.0
+Strength: 35.48
+Replacing rule_180 with rule_132...
+Current State: ['rule_132', 'rule_222', 'rule_48']
+DU = 56.0 NL=0.0
+Strength: 29.03
+Replacing rule_132 with rule_6...
+Current State: ['rule_6', 'rule_222', 'rule_48']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_48 with rule_250...
+Current State: ['rule_6', 'rule_222', 'rule_250']
+DU = 44.0 NL=0.0
+Strength: 33.87
+Replacing rule_222 with rule_34...
+Current State: ['rule_6', 'rule_34', 'rule_250']
+DU = 60.0 NL=0.0
+Strength: 27.42
+Replacing rule_6 with rule_96...
+Current State: ['rule_96', 'rule_34', 'rule_250']
+DU = 62.0 NL=0.0
+Strength: 26.61
+Replacing rule_250 with rule_48...
+Current State: ['rule_96', 'rule_34', 'rule_48']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_34 with rule_160...
+Current State: ['rule_96', 'rule_160', 'rule_48']
+DU = 54.0 NL=0.0
+Strength: 29.84
+Replacing rule_160 with rule_212...
+Current State: ['rule_96', 'rule_212', 'rule_48']
+DU = 48.0 NL=0.0
+Strength: 32.26
+Replacing rule_96 with rule_10...
+Current State: ['rule_10', 'rule_212', 'rule_48']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_48 with rule_58...
+Current State: ['rule_10', 'rule_212', 'rule_58']
+DU = 26.0 NL=0.0
+Strength: 41.13
+Replacing rule_58 with rule_108...
+Current State: ['rule_10', 'rule_212', 'rule_108']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_108 with rule_18...
+Current State: ['rule_10', 'rule_212', 'rule_18']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_212 with rule_250...
+Current State: ['rule_10', 'rule_250', 'rule_18']
+DU = 48.0 NL=0.0
+Strength: 32.26
+Replacing rule_18 with rule_116...
+Current State: ['rule_10', 'rule_250', 'rule_116']
+DU = 54.0 NL=0.0
+Strength: 29.84
+Replacing rule_250 with rule_126...
+Current State: ['rule_10', 'rule_126', 'rule_116']
+DU = 68.0 NL=0.0
+Strength: 24.19
+Replacing rule_10 with rule_18...
+Current State: ['rule_18', 'rule_126', 'rule_116']
+DU = 52.0 NL=0.0
+Strength: 30.65
+Replacing rule_126 with rule_190...
+Current State: ['rule_18', 'rule_190', 'rule_116']
+DU = 52.0 NL=0.0
+Strength: 30.65
+Replacing rule_190 with rule_6...
+Current State: ['rule_18', 'rule_6', 'rule_116']
+DU = 52.0 NL=0.0
+Strength: 30.65
+Replacing rule_18 with rule_250...
+Current State: ['rule_250', 'rule_6', 'rule_116']
+DU = 54.0 NL=0.0
+Strength: 29.84
+Replacing rule_250 with rule_132...
+Current State: ['rule_132', 'rule_6', 'rule_116']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_116 with rule_250...
+Current State: ['rule_132', 'rule_6', 'rule_250']
+DU = 42.0 NL=0.0
+Strength: 34.68
+Replacing rule_132 with rule_34...
+Current State: ['rule_34', 'rule_6', 'rule_250']
+DU = 60.0 NL=0.0
+Strength: 27.42
+Replacing rule_34 with rule_238...
+Current State: ['rule_238', 'rule_6', 'rule_250']
+DU = 46.0 NL=0.0
+Strength: 33.06
+Replacing rule_6 with rule_184...
+Current State: ['rule_238', 'rule_184', 'rule_250']
+DU = 54.0 NL=0.0
+Strength: 29.84
+Replacing rule_238 with rule_48...
+Current State: ['rule_48', 'rule_184', 'rule_250']
+DU = 64.0 NL=0.0
+Strength: 25.81
+Replacing rule_250 with rule_198...
+Current State: ['rule_48', 'rule_184', 'rule_198']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_184 with rule_68...
+Current State: ['rule_48', 'rule_68', 'rule_198']
+DU = 64.0 NL=0.0
+Strength: 25.81
+Replacing rule_48 with rule_120...
+Current State: ['rule_120', 'rule_68', 'rule_198']
+DU = 66.0 NL=0.0
+Strength: 25.0
+Replacing rule_68 with rule_24...
+Current State: ['rule_120', 'rule_24', 'rule_198']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Replacing rule_198 with rule_212...
+Current State: ['rule_120', 'rule_24', 'rule_212']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_212 with rule_232...
+Current State: ['rule_120', 'rule_24', 'rule_232']
+DU = 56.0 NL=0.0
+Strength: 29.03
+Replacing rule_24 with rule_228...
+Current State: ['rule_120', 'rule_228', 'rule_232']
+DU = 56.0 NL=0.0
+Strength: 29.03
+Replacing rule_232 with rule_114...
+Current State: ['rule_120', 'rule_228', 'rule_114']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_228 with rule_6...
+Current State: ['rule_120', 'rule_6', 'rule_114']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_120 with rule_198...
+Current State: ['rule_198', 'rule_6', 'rule_114']
+DU = 18.0 NL=0.0
+Strength: 44.35
+Replacing rule_114 with rule_184...
+Current State: ['rule_198', 'rule_6', 'rule_184']
+DU = 30.0 NL=0.0
+Strength: 39.52
+Replacing rule_184 with rule_24...
+Current State: ['rule_198', 'rule_6', 'rule_24']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_198 with rule_66...
+Current State: ['rule_66', 'rule_6', 'rule_24']
+DU = 36.0 NL=0.0
+Strength: 37.1
+Replacing rule_66 with rule_96...
+Current State: ['rule_96', 'rule_6', 'rule_24']
+DU = 38.0 NL=0.0
+Strength: 36.29
+Replacing rule_6 with rule_40...
+Current State: ['rule_96', 'rule_40', 'rule_24']
+DU = 50.0 NL=0.0
+Strength: 31.45
+Replacing rule_24 with rule_132...
+Current State: ['rule_96', 'rule_40', 'rule_132']
+DU = 48.0 NL=0.0
+Strength: 32.26
+Replacing rule_132 with rule_154...
+Current State: ['rule_96', 'rule_40', 'rule_154']
+DU = 32.0 NL=0.0
+Strength: 38.71
+Replacing rule_40 with rule_216...
+Current State: ['rule_96', 'rule_216', 'rule_154']
+DU = 16.0 NL=0.0
+Strength: 45.16
+Replacing rule_154 with rule_142...
+Current State: ['rule_96', 'rule_216', 'rule_142']
+DU = 34.0 NL=0.0
+Strength: 37.9
+Replacing rule_142 with rule_58...
+Current State: ['rule_96', 'rule_216', 'rule_58']
+DU = 20.0 NL=0.0
+Strength: 43.55
+Replacing rule_58 with rule_34...
+Current State: ['rule_96', 'rule_216', 'rule_34']
+DU = 24.0 NL=0.0
+Strength: 41.94
+Replacing rule_216 with rule_232...
+Current State: ['rule_96', 'rule_232', 'rule_34']
+DU = 50.0 NL=0.0
+Strength: 31.45
+Replacing rule_232 with rule_166...
+Current State: ['rule_96', 'rule_166', 'rule_34']
+DU = 28.0 NL=0.0
+Strength: 40.32
+Exiting the RL...
+
+FINAL REPORT:
+Number of States Visited: 256
+Best Strength: -inf
+Worst Strength: inf
+Best DU: -inf Best NL: -inf
+Worst DU: inf Worst NL: inf
