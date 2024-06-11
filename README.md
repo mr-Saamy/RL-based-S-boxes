@@ -13,7 +13,7 @@ The code is written in Python 3 and uses the following packages
 To run the code, open the root folder and run the following command `python3 RL.py`
 To run the code with different number of semi-bent functions, make the following changes:
 - Change `NUM_RULES` in `RL.py`
-- Change `NUM_RULES` in `Auxiliary/s_box.py`
+- Change `NUM_RULES` and apply the desired S-box configuration in `Auxiliary/s_box.py`
 - Change initital state variable `S` in `RL.py`
 
 ## Folder Structure
