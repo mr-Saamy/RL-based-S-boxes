@@ -6,7 +6,7 @@ import itertools
 import math
 from . import funcs_filtered_outputs_m_3 as m3
 
-NUM_RULES = 4
+NUM_RULES = 3
 INPUT_SIZE = 8
 OUTPUT_SIZE = 8
 
@@ -84,25 +84,25 @@ def Sbox(rules):
         #         else:
         #             op.append(rule_op(rules[1],3,INPUT_SIZE,res,start))
         #         start+=1
-        # if(NUM_RULES==3):
-        #     for i in range(INPUT_SIZE):
-        #         if(start in [0,1,2]):
-        #             op.append(rule_op(rules[0],3,INPUT_SIZE,res,start))
-        #         elif(start in [3,4,5]):
-        #             op.append(rule_op(rules[1],3,INPUT_SIZE,res,start))
-        #         elif(start in [6,7]):
-        #             op.append(rule_op(rules[2],3,INPUT_SIZE,res,start))
-        #         start+=1
-        if(NUM_RULES==4):
+        if(NUM_RULES==3):
             for i in range(INPUT_SIZE):
-                if(start in [0,2]):
+                if(start in [0,1,2]):
                     op.append(rule_op(rules[0],3,INPUT_SIZE,res,start))
-                elif(start in [1,3]):
+                elif(start in [3,4,5]):
                     op.append(rule_op(rules[1],3,INPUT_SIZE,res,start))
-                elif(start in [4,6]):
+                elif(start in [6,7]):
                     op.append(rule_op(rules[2],3,INPUT_SIZE,res,start))
-                elif(start in [5,7]):
-                    op.append(rule_op(rules[3],3,INPUT_SIZE,res,start))
+                start+=1
+        # if(NUM_RULES==4):
+        #     for i in range(INPUT_SIZE):
+        #         if(start in [0,2]):
+        #             op.append(rule_op(rules[0],3,INPUT_SIZE,res,start))
+        #         elif(start in [1,3]):
+        #             op.append(rule_op(rules[1],3,INPUT_SIZE,res,start))
+        #         elif(start in [4,6]):
+        #             op.append(rule_op(rules[2],3,INPUT_SIZE,res,start))
+        #         elif(start in [5,7]):
+        #             op.append(rule_op(rules[3],3,INPUT_SIZE,res,start))
 
 
         op = op[0:8]
