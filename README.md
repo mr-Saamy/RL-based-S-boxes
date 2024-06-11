@@ -1,5 +1,5 @@
 # RL-based-S-boxes
-This is the code for the paper 'Exploring Lightweight S-boxes using Cellular Automata and Reinforcement Learning' 
+This is the code for the paper 'Exploring Diverse Configurations of Cellular Automata Based S-Boxes Using Reinforcement Learning', which is an extension of the work done in the paper 'Exploring Lightweight S-boxes using Cellular Automata and Reinforcement Learning' 
 
 ## Code
 The code is written in Python 3 and uses the following packages
@@ -20,6 +20,7 @@ To run the code with different number of semi-bent functions, make the following
 - RL.py : The main driver code which runs the Reinforcement Learning algorithm and generates the outputs. The algorithm currently explores 50 new states in each run and then terminates. This values can be changed by changing the `MAX_STATES` value in the code.
 - Luca Codes : These are the [codes written by Luca et. al](https://github.com/rymoah/ca-boolfun-construction) for the contruction of the semi-bent functions.
 - Auxiliary : The folder contains helper codes used by `RL.py`
+- Outputs : The folder contains the outputs of various configurations tested, both in the paper and a few extra configurations not mentioned.
   - filtered_outputs_m_3 : List of balanced semi-bent functions of neighbourhood size 3. It is a text file
   - funcs_filtered_outputs_m_3 : Python3 implemented functions for the semi-bent functions in the above listed file.
   - outputs_m_3 : List of all semi-bent functions created from neighbourhood size 2 (balanced and unbalanced).
