@@ -1,5 +1,5 @@
 # RL-based-S-boxes
-This is the code for the paper 'Exploring Diverse Configurations of Cellular Automata Based S-Boxes Using Reinforcement Learning', which is an extension of the work done in the paper 'Exploring Lightweight S-boxes using Cellular Automata and Reinforcement Learning' 
+This is the code for the paper 'Exploring Diverse Configurations of Cellular Automata Based S-Boxes Using Reinforcement Learning', which is an extension of the work done in the paper ['Exploring Lightweight S-boxes using Cellular Automata and Reinforcement Learning'](https://github.com/tarunaygr/RL-based-S-boxes) by Tarun et. al.
 
 ## Code
 The code is written in Python 3 and uses the following packages
